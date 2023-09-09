@@ -9,7 +9,7 @@
 
 ## Ссылки на проект
 
-IP-адрес 158.160.23.104
+IP 158.160.23.104
 
 Frontend https://redox.nomoredomainsicu.ru
 
