@@ -97,7 +97,7 @@ class Api {
 }
 
 const api = new Api({
-  baseUrl: 'http://api.redox.nomoredomainsicu.ru',
+  baseUrl: 'https://api.redox.nomoredomainsicu.ru',
 });
 
 export default api;

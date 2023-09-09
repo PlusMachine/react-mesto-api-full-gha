@@ -1,4 +1,4 @@
-export const BASE_URL = 'http://api.redox.nomoredomainsicu.ru';
+export const BASE_URL = 'https://api.redox.nomoredomainsicu.ru';
 
 
 function checkResponse(res) { return res.ok ? res.json() : Promise.reject(`Ошибка ${res.status}`) };
