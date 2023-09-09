@@ -141,7 +141,7 @@ function App() {
           setIsLoading(false);
         }
         ).catch((error => console.error(`Ошибка при получении массива карточек или информации о пользователе ${error}`)))
-    }, [])
+    }, [loggedIn])
 
   function handleExit() {
     localStorage.removeItem('token');
